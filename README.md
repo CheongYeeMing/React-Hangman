@@ -1,10 +1,10 @@
-# Neon Hangman
+# Neon Hangman 웃
 
 Just a simple neon-themed hangman game! 🧪🌈✨🔆⚛
 
 ![hangman-6](https://user-images.githubusercontent.com/72136453/170842667-73907e95-433a-4737-bf89-0cda2af24ed9.jpg)
 
-## How to try the game
+## How to try the game ❔
 
 The game has been hosted on GitHub pages, simply click [this](https://cheongyeeming.github.io/React-Hangman/) link to play my game! 🎮🕹️
 
