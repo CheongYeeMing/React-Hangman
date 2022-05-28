@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/React-Hangman/static/css/main.1bc7aa8e.css",
+    "main.js": "/github.io/React-Hangman/static/js/main.4695c835.js",
+    "static/js/787.d3606618.chunk.js": "/github.io/React-Hangman/static/js/787.d3606618.chunk.js",
+    "static/media/hangman-6.jpg": "/github.io/React-Hangman/static/media/hangman-6.42d05d82462527e7a493.jpg",
+    "static/media/hangman-5.jpg": "/github.io/React-Hangman/static/media/hangman-5.03a184359139248b3f31.jpg",
+    "static/media/hangman-4.jpg": "/github.io/React-Hangman/static/media/hangman-4.4d9c79a04961d755e93f.jpg",
+    "static/media/hangman-3.jpg": "/github.io/React-Hangman/static/media/hangman-3.ffa8bc3fb2c203d1f2bd.jpg",
+    "static/media/hangman-2.jpg": "/github.io/React-Hangman/static/media/hangman-2.0adb25dfe84ed2296c2b.jpg",
+    "static/media/hangman-1.jpg": "/github.io/React-Hangman/static/media/hangman-1.39bc499c3091d8d7f163.jpg",
+    "static/media/hangman-0.jpg": "/github.io/React-Hangman/static/media/hangman-0.de4144b46335236f1a6d.jpg",
+    "index.html": "/github.io/React-Hangman/index.html",
+    "main.1bc7aa8e.css.map": "/github.io/React-Hangman/static/css/main.1bc7aa8e.css.map",
+    "main.4695c835.js.map": "/github.io/React-Hangman/static/js/main.4695c835.js.map",
+    "787.d3606618.chunk.js.map": "/github.io/React-Hangman/static/js/787.d3606618.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bc7aa8e.css",
+    "static/js/main.4695c835.js"
+  ]
+}
